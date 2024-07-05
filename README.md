@@ -1,2 +1,2 @@
 # Sample-C-Programs
-## Contsind sample program fro matrix multiplication
+## Contains sample program for matrix multiplication
